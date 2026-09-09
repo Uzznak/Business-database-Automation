@@ -1,5 +1,5 @@
 
-# LUP - Lean Upgrade Plan
+# LUP 
 
 ## Description
 
