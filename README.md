@@ -19,7 +19,7 @@ Cette première version repose sur Excel et VBA, avec une évolution prévue ver
 - Générer automatiquement des KPI
 - Préparer une future migration vers une architecture Web
 
-
+# Demo
 
 # Fonctionnalités
 
